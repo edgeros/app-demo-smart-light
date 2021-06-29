@@ -1,0 +1,17 @@
+{
+    "name": "com.acoinfo.light",
+    "version": "0.0.63",
+    "description": "控制小米智能灯的 App",
+    "main": "main.js",
+    "scripts": {
+        "build": "eos build"
+    },
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {
+        "eslint": "^7.23.0",
+        "@edgeros/jsre-types": "^0.1.1",
+        "@edgeros/eslint-plugin-jsre": "^0.0.3"
+    },
+    "author": "edgeros.acoinfo.com"
+}
