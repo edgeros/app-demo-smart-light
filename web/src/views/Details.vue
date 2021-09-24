@@ -1,6 +1,6 @@
 <template>
   <div class="details">
-    <van-nav-bar :title="light.alias" left-arrow @click-left="goBack()" />
+    <van-nav-bar :title="light.alias" left-arrow @click-left="goBack()" class="safe-area-top"/>
     <van-row class="row" justify="center" align="center" type="flex">
       <van-col>
         <van-image

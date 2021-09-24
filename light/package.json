@@ -1,6 +1,6 @@
 {
     "name": "com.acoinfo.light",
-    "version": "0.0.63",
+    "version": "0.0.66",
     "description": "控制小米智能灯的 App",
     "main": "main.js",
     "scripts": {
