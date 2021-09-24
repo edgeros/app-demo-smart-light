@@ -2,7 +2,6 @@
   <div class="home">
     <van-nav-bar title="设备列表" class="safe-area-top"/>
     <van-pull-refresh
-      class="safe-area-top"
       style="min-height: 100vh"
       v-model="isLoading"
       @refresh="onRefresh"
